@@ -3,6 +3,6 @@
 会按照时间进度和算法类型进行分析，并进行刷题进度更新。
 
 ## Week1
-LeetCode 485
+LeetCode 485  
 LeetCode 776
 ## Week2
