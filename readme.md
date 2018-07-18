@@ -3,6 +3,9 @@
 会按照时间进度和算法类型进行分析，并进行刷题进度更新。
 
 ## Week1
-LeetCode 485  
-LeetCode 776
+[LeetCode 485](https://github.com/HarryinGit3/myleetcode/blob/master/leetcode/485%20Max%20Consecutive%20Ones.py)   
+[LeetCode 776](https://github.com/HarryinGit3/myleetcode/blob/master/leetcode/776%20Toeplitz%20Matrix.py)
 ## Week2
+### 剑指offer
+#### [面试题3-1：找出数组中重复的数字]()
+#### [面试题3-2：不修改数组找出重复的数字]()
