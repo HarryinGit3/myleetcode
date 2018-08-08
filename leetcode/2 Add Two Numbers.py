@@ -7,10 +7,13 @@
 原因：342 + 465 = 807
 '''
 
+
 # 思路：
 def addTwoNumbers(self, l1, l2):
-        """
+    """
         :type l1: ListNode
         :type l2: ListNode
         :rtype: ListNode
         """
+    listL1 = []
+    listL2 = []
